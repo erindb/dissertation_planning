@@ -1,0 +1,4 @@
+bibtex first_committee_meeting_writeup
+pdflatex first_committee_meeting_writeup
+bibtex first_committee_meeting_writeup
+pdflatex first_committee_meeting_writeup
